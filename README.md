@@ -12,5 +12,5 @@ https://public.tableau.com/shared/25JPW82WR?:display_count=n&:origin=viz_share_l
  
 Dataset Link : https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites/data?selec t=whc-sites2019.csv 
  
-Github Repository Link : https://github.com/VasthaviSreya-Thumu/Heritage-Treasures
+Github Repository Link : https://github.com/Suryamvv8/Heritage-Treasures-An-In-Depth-Analysis-of-UNESCO-World-Heritage-Sites-in-Tableau.git
  
